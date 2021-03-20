@@ -8,3 +8,6 @@ DIAN_FERDIANSYAH RESOLUSI
 - Membuat video tutorial supaya bisa bermanfaat
 - Membuat forum diskusi
 - Kolaborasi dengan lebih banyak expert
+- Konsisten latihan dan mempraktekan update terkini teknologi informasi dan pemograman
+- Selalu mengamati, mengikuti dan mempelajari hal-hal baru seputaran bahasa pemograman dan framework
+- Membuat template website
