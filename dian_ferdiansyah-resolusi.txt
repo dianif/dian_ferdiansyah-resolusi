@@ -11,3 +11,6 @@ DIAN_FERDIANSYAH RESOLUSI
 - Konsisten latihan dan mempraktekan update terkini teknologi informasi dan pemograman
 - Selalu mengamati, mengikuti dan mempelajari hal-hal baru seputaran bahasa pemograman dan framework
 - Membuat template website
+- Membuat dan meningkatkan security untuk aplikasi berbasis web
+- Mempelajari dan mempraktekan Teknologi informasi bidang mobile app
+- Mempelajari dan mempraktekan security mobile app
