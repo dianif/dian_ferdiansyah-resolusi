@@ -8,7 +8,10 @@ Membuat Konten Pemogramman Web :
   - bootstrap
   - javascript  :   
     * ES6
-    * Framework Javascript
+    * Framework Javascript :
+      > vue
+      > react
+      > angular
   - php :
     * php native
     * Frameworks PHP : 
@@ -17,7 +20,6 @@ Membuat Konten Pemogramman Web :
   - python
   - django
   - nodejs
-  - reactjs
   - golang
   
   Database :
