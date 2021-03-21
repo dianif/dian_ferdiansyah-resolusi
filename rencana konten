@@ -1,45 +1,58 @@
-Rencana Konten
-Membuat Konten Pemogramman Web :
+Rencana Konten :
+
+  a. Membuat konten Pemogramman web :
+
+  - Fundamental :
+    * Algoritma Dasar
+    * Algoritma Lanjut
+    * Struktur data
+  
   - html
   - css dasar
   - css layout
   - css lanjut
   - css 3
   - bootstrap
+  
   - javascript  :   
     * ES6
     * Framework Javascript :
       > vue
       > react
       > angular
+      
   - php :
     * php native
     * Frameworks PHP : 
       > codeigniter
       > laravel
+      
   - python
   - django
   - nodejs
   - golang
   
-  Database :
+  b. Database :
   - mysql
   - mongodb
   - postgre
   - oracle
   - ms_access
   
-  Membuat konten UI-UX
+  b. Membuat konten UI-UX
   - adobe xd
   - photoshop
   - figma
   
-Membuat konten Pemogramman Mobile app
+c. Membuat konten Pemogramman Mobile app
 - kotlin
 - android
 - java
 - fluter
 
-vlogs
-Interview
+d. lain-lain
+- vlogs
+- Interview
+- Kolaborasi
+- project
 
