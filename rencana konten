@@ -1,7 +1,10 @@
 Rencana Konten
-Membuat konten Pemogramman web :
+Membuat Konten Pemogramman Web :
   - html
-  - css
+  - css dasar
+  - css layout
+  - css lanjut
+  - css 3
   - bootstrap
   - javascript  :   
     * ES6
@@ -11,17 +14,18 @@ Membuat konten Pemogramman web :
     * Frameworks PHP : 
       > codeigniter
       > laravel
-  - codeigniter
-  - laravel
   - python
   - django
   - nodejs
   - reactjs
   - golang
   
+  Database :
   - mysql
   - mongodb
   - postgre
+  - oracle
+  - ms_access
   
   Membuat konten UI-UX
   - adobe xd
@@ -36,3 +40,4 @@ Membuat konten Pemogramman Mobile app
 
 vlogs
 Interview
+
